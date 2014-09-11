@@ -33,6 +33,8 @@
 					<td>Observation :</td>
 					<td> <input type="text" name="userObs"/></td>
 				</tr>
+				<input type="submit" value="Submit" />
+				<input type="reset" value="Clear" />
 			</table>
 		</form>
 	</body>
