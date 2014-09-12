@@ -34,9 +34,8 @@
 					<td> <input type="text" name="userObs"/></td>
 				</tr>
 				<input type="submit" value="Submit" />
+				<input type="reset" value="Clear"/>
 				
-				
-				<input type="submit" value="Submit"/>
 			</table>
 		</form>
 	</body>
